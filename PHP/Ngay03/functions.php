@@ -41,7 +41,7 @@ function taoBaoCaoLuong($employees, $timesheet, $adjustments)
         // gọi hàm tính lương lĩnh , lấy phần tử đầu tiên [0] key salary
         $luongThucLinh = tinhLuongLinh([$employees], $timesheet, $adjustments)[0]['salary'];
         // gói 3 biến thành 1 kết quả
-        return compact('employees', 'ngayCong','phuCap', 'khauTru', 'luongThucLinh');
+        return compact('employees', 'ngayCong', 'phuCap', 'khauTru', 'luongThucLinh');
     }, $employees);
 }
 
@@ -63,7 +63,8 @@ function tinNhanVienMaxMin($timesheet)
 }
 
 // cập nhật dữ liệu nhân viên và chấm công
-function capNhatNhanVienTimesheet(&$timesheet, $id, $action, $date = null){
+function capNhatNhanVienTimesheet(&$timesheet, $id, $action, $date = null)
+{
     switch ($action) {
         case 'add':
             // Thêm ngày công mới cho nhân viên
@@ -117,23 +118,27 @@ function capNhatNhanVienTimesheet(&$timesheet, $id, $action, $date = null){
     }
 }
 // lọc dữ liệu nhân viên theo số ngày công >= 4
-function locNhanVienTheoNgayCong($timesheet){
-    return array_filter($timesheet, function($days){
+function locNhanVienTheoNgayCong($timesheet)
+{
+    return array_filter($timesheet, function ($days) {
         return count($days) >= 4;
     });
 }
 // kiểm tra nhân viên có đi làm ngày hôm nào đó hay không
-function kiemTraNgayLam($timesheet, $id, $date){
+function kiemTraNgayLam($timesheet, $id, $date)
+{
     return in_array($date, $timesheet[$id]) ? "Có đi làm" : "Không đi làm";
 }
 // kiểm tra dữ liệu phụ cấp nhân viên
-function kiemTraPhuCap($adjustments, $id){
+function kiemTraPhuCap($adjustments, $id)
+{
     return array_key_exists($id, $adjustments) ? "Có phụ cấp" : "Không phụ cấp";
 }
 
 // hàm loại bỏ trùng lặp
-function loaiBoTrungDuLieu(&$timesheet){
-    foreach ($timesheet as $id => $date){
+function loaiBoTrungDuLieu(&$timesheet)
+{
+    foreach ($timesheet as $id => $date) {
         // sử dụng array_unique
         $date = array_unique($date);
     }
