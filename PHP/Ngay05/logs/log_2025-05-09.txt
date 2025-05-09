@@ -1,0 +1,6 @@
+[08:23:47] - IP: ::1 - Mô tả hành động: đăng nhập 
+[08:25:38] - IP: ::1 - Mô tả hành động: đăng ký - File minh chứng: D:\laragon\www\ThucTap_DKSPACE\PHP\Ngay05\includes/../uploads/upload_1746779138.Screenshot 2025-05-06 202941.png
+[09:07:26] - IP: ::1 - Mô tả hành động: đăng ký thành công  - File minh chứng: D:\laragon\www\ThucTap_DKSPACE\PHP\Ngay05\includes/../uploads/upload_1746781646.Screenshot 2024-05-17 161542.png
+[09:07:29] - IP: ::1 - Mô tả hành động: 
+[09:24:50] - IP: ::1 - Mô tả hành động: đăng ký
+[09:25:20] - IP: ::1 - Mô tả hành động: đăng ký - File minh chứng: D:\laragon\www\ThucTap_DKSPACE\PHP\Ngay05\includes/../uploads/upload_1746782720.Screenshot 2025-04-13 205738.png
