@@ -1,0 +1,16 @@
+{
+    "name": "admin/ngay08",
+    "description": "H? th?ng qu?n l? tài kho?n và giao d?ch ngân hàng s?",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NguyenCongDuy",
+            "email": "146914945+NguyenCongDuy@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
