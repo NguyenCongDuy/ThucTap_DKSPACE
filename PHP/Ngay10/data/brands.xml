@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brands>
+   <brand>
+        <name>Samsung</name>
+        <category>Điện tử</category>
+    </brand>
+    <brand>
+        <name>Apple</name>
+        <category>Điện tử</category>
+    </brand>
+    <brand>
+        <name>Nike</name>
+        <category>Thời trang</category>
+    </brand>
+    <brand>
+        <name>Adidas</name>
+        <category>Thời trang</category>
+    </brand>
+    <brand>
+        <name>LG</name>
+        <category>Điện tử</category>
+    </brand>
+</brands>

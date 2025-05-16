@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJAX PHP</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="js/product_detail.js"></script>
+    <script src="js/cart.js"></script>
+    <script src="js/reviews.js"></script>
+    <script src="js/brands.js"></script>
+    <script src="js/live_search.js"></script>
+    <script src="js/poll.js"></script>
+</head>
+
+<body>
+    <h2>Tìm kiếm sản phẩm</h2>
+    <input type="text" id="searchInput" placeholder="Nhập từ khóa...">
+    <div id="searchResult"></div>
+
+    <h2>Chọn ngành hàng</h2>
+    <select onchange="loadBrands(this.value)">
+        <option value="">-- Chọn ngành --</option>
+        <option value="Điện tử">Điện tử</option>
+        <option value="Thời trang">Thời trang</option>
+    </select>
+
+    <h2>Chọn thương hiệu</h2>
+    <select id="brandsSelect">
+        <option value="">-- Chọn thương hiệu --</option>
+    </select>
+
+    <h1>Danh sách sản phẩm</h1>
+    <ul class="list-unstyled d-flex gap-3">
+        <li class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <a href="#" onclick="layChiTietSanPham(1)">Sản Phẩm 1</a>
+                </h5>
+                <button class="btn btn-primary me-2" onclick="themVaoGio(1)">Thêm vào giỏ</button>
+                <button class="btn btn-secondary" onclick="loadReviews(1)">Xem đánh giá SP1</button>
+            </div>
+        </li>
+
+        <li class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <a href="#" onclick="layChiTietSanPham(2)">Sản Phẩm 2</a>
+                </h5>
+                <button class="btn btn-primary me-2" onclick="themVaoGio(2)">Thêm vào giỏ</button>
+                <button class="btn btn-secondary" onclick="loadReviews(2)">Xem đánh giá SP2</button>
+            </div>
+        </li>
+
+        <li class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <a href="#" onclick="layChiTietSanPham(3)">Sản Phẩm 3</a>
+                </h5>
+                <button class="btn btn-primary me-2" onclick="themVaoGio(3)">Thêm vào giỏ</button>
+                <button class="btn btn-secondary" onclick="loadReviews(3)">Xem đánh giá SP3</button>
+            </div>
+        </li>
+    </ul>
+
+<hr><hr>
+     <h2>Bình chọn cải thiện website</h2>
+    <form id="pollForm">
+        <input type="radio" name="vote" value="giao_dien" id="giao_dien">
+        <label for="giao_dien">Giao diện</label><br>
+
+        <input type="radio" name="vote" value="toc_do" id="toc_do">
+        <label for="toc_do">Tốc độ</label><br>
+
+        <input type="radio" name="vote" value="dich_vu_khach_hang" id="dich_vu_khach_hang">
+        <label for="dich_vu_khach_hang">Dịch vụ khách hàng</label><br><br>
+
+        <button type="submit">Gửi</button>
+    </form>
+<hr><hr>
+
+    <h2>Chi tiết sản phẩm</h2>
+    <div id="chiTietSanPham">
+        <!-- kết quả sẽ hiển thị ở đây -->
+    </div>
+    <h2>Đánh giá sản phẩm</h2>
+    <div id="reviewsContainer">
+        <!-- đánh giá sẽ load và hiển thị ở đây -->
+    </div>
+    <h2>Giỏ hàng</h2>
+    <div>
+        Số lượng sản phẩm trong giỏ: <span id="cartCount">0</span>
+    </div>
+
+    <div id="pollResult"></div>
+
+
+    <script>
+        // Sử dụng Fetch API (modern)
+        // AJAX GET -> nhận HTML fragment
+        function layChiTietSanPham(id) {
+            fetch('./php/product_detail.php?id=' + id)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('chiTietSanPham').innerHTML = data;
+                })
+                .catch(error => console.error('Lỗi:', error));
+        }
+    </script>
+
+    <script>
+        // Gắn sự kiện khi người dùng nhập vào ô input
+        document.getElementById('searchInput').addEventListener('input', function () {
+            const keyword = this.value.trim();
+            if (keyword.length > 0) {
+                debounceSearch(keyword);  // Gọi tìm kiếm có debounce (giảm spam server)
+            } else {
+                document.getElementById('searchResult').innerHTML = '';
+            }
+        });
+    </script>
+
+</body>
+
+</html>
