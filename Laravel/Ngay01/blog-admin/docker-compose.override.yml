@@ -1,0 +1,8 @@
+# docker-compose.override.yml
+version: '3.8'
+services:
+    laravel.test:
+        volumes:
+            - ./logs:/var/www/html/logs
+            - ./local-scripts:/var/www/html/local-scripts
+
