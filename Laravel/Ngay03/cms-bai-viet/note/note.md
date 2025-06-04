@@ -28,3 +28,6 @@ $author->delete();
 
 $countAfter = Post::count();
 
+Laravel Project – Database, Migrations & Eloquent ORM (Professional Assignment)
+
+
