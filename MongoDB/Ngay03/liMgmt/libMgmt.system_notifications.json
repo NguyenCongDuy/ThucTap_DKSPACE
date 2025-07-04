@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "68650c098d8ee36333748a60"
+  },
+  "notification_id": {
+    "$binary": {
+      "base64": "Pqe4EJ2tEdGAtADAT9QxAA==",
+      "subType": "04"
+    }
+  },
+  "message": "Server lỗi sẽ restart vào tối nay.",
+  "created_at": {
+    "$date": "2025-07-02T10:38:01.124Z"
+  }
+}]

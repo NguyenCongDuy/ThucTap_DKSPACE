@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6864a3cc10f86185fae1f078"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "book_title": "Dune",
+  "borrow_date": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6864a3cc10f86185fae1f079"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAAQ==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "jKe4EJ2tEdGAtADAT9QwwQ==",
+      "subType": "04"
+    }
+  },
+  "book_title": "Science Fiction: A Journey",
+  "borrow_date": {
+    "$date": "2025-05-12T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6864a3cc10f86185fae1f07a"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "jKe4EJ2tEdGAtADAT9Qwwg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAAg==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "jKe4EJ2tEdGAtADAT9Qwww==",
+      "subType": "04"
+    }
+  },
+  "book_title": "History of Science Fiction",
+  "borrow_date": {
+    "$date": "2025-06-03T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2024-06-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68650d008d8ee36333748a62"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "oKe4EJ2tEdGAtADAT9QxEQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAEQ==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "sKe4EJ2tEdGAtADAT9QxEg==",
+      "subType": "04"
+    }
+  },
+  "book_title": "1984",
+  "borrow_date": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68650d008d8ee36333748a63"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "wKe4EJ2tEdGAtADAT9QxEw==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAEQ==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "0Ke4EJ2tEdGAtADAT9QxFA==",
+      "subType": "04"
+    }
+  },
+  "book_title": "Brave New World",
+  "borrow_date": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  }
+}]

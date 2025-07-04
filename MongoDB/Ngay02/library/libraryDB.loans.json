@@ -1,0 +1,246 @@
+[{
+  "_id": {
+    "$oid": "68628b79cab3400049748a62"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Dune",
+      "borrow_date": {
+        "$date": "2024-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "jae4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "1984",
+      "borrow_date": {
+        "$date": "2024-04-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "status": "ACTIVE",
+  "due_date": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68628b79cab3400049748a63"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "fKe4EJ2tEdGAtADAT9QwyQ==",
+          "subType": "04"
+        }
+      },
+      "title": "Clean Code",
+      "borrow_date": {
+        "$date": "2024-05-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "status": "RETURNED",
+  "due_date": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68628b79cab3400049748a64"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "fKe4EJ2tEdGAtADAT9Qw0Q==",
+          "subType": "04"
+        }
+      },
+      "title": "Brave New World",
+      "borrow_date": {
+        "$date": "2024-04-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "status": "ACTIVE",
+  "due_date": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68638282344375b49b748a62"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "EREiIp2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "EREREeKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "",
+          "subType": "04"
+        }
+      },
+      "title": "The Martian",
+      "borrow_date": {
+        "$date": "2024-02-10T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "",
+          "subType": "04"
+        }
+      },
+      "title": "Brave New World",
+      "borrow_date": {
+        "$date": "2024-02-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "status": "RETURNED",
+  "due_date": {
+    "$date": "2024-02-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68638282344375b49b748a63"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "IiIzM52tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "IiIiIuKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "",
+          "subType": "04"
+        }
+      },
+      "title": "Dune",
+      "borrow_date": {
+        "$date": "2024-04-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "status": "ACTIVE",
+  "due_date": {
+    "$date": "2024-04-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68638282344375b49b748a64"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "MzNERJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "MzMzM+KbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "",
+          "subType": "04"
+        }
+      },
+      "title": "Sapiens",
+      "borrow_date": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "",
+          "subType": "04"
+        }
+      },
+      "title": "1984",
+      "borrow_date": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "status": "OVERDUE",
+  "due_date": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  }
+}]

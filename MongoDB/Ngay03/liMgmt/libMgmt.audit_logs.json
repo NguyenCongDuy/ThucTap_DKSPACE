@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6864a3ed10f86185fae1f07d"
+  },
+  "log_id": {
+    "$binary": {
+      "base64": "rae4EJ2tEdGAtADAT9QwwA==",
+      "subType": "04"
+    }
+  },
+  "action": "BORROW",
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAAg==",
+      "subType": "04"
+    }
+  },
+  "created_at": {
+    "$date": "2025-07-02T03:13:49.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6864ae10f8d9842e47748a62"
+  },
+  "log_id": {
+    "$binary": {
+      "base64": "rae4EJ2tEdGAtADAT9QwwA==",
+      "subType": "04"
+    }
+  },
+  "action": "BORROW",
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAAg==",
+      "subType": "04"
+    }
+  },
+  "created_at": {
+    "$date": "2025-07-02T03:57:04.274Z"
+  }
+}]

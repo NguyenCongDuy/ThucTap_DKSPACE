@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "6867695b359684144870c306"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Van D",
+  "email": "levand@example.com",
+  "joined_at": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c307"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAw==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Pham Thi E",
+  "email": "phame@example.com",
+  "joined_at": {
+    "$date": "2023-11-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c308"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Hoang Van F",
+  "email": "hoangf@example.com",
+  "joined_at": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c309"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Do Thi G",
+  "email": "dog@example.com",
+  "joined_at": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c30a"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Vo Van H",
+  "email": "voh@example.com",
+  "joined_at": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c30b"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABw==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Bui Thi I",
+  "email": "buii@example.com",
+  "joined_at": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c30c"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQACA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Dang Van J",
+  "email": "dangj@example.com",
+  "joined_at": {
+    "$date": "2024-06-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867695b359684144870c30d"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQACQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi K",
+  "email": "nguyenk@example.com",
+  "joined_at": {
+    "$date": "2024-09-30T00:00:00.000Z"
+  }
+}]

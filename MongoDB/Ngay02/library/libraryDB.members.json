@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "68628b73cab3400049748a5f"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi B",
+  "email": "nguyenb@example.com",
+  "contact": {
+    "phone": "0987654321",
+    "city": "Ho Chi Minh City"
+  },
+  "interests": [
+    "Fiction",
+    "Science",
+    "History"
+  ],
+  "joined_at": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68628b73cab3400049748a60"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Van C",
+  "email": "tranc@example.net",
+  "contact": {
+    "phone": "0971234567",
+    "city": "Hanoi"
+  },
+  "interests": [
+    "Technology",
+    "Science"
+  ],
+  "joined_at": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68628b73cab3400049748a61"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Thi D",
+  "email": "lethid@example.org",
+  "contact": {
+    "phone": "0911111111",
+    "city": "Da Nang"
+  },
+  "interests": [
+    "Fiction",
+    "History"
+  ],
+  "joined_at": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6863827e344375b49b748a5f"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "EREREeKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Van C",
+  "email": "levanc@domain.com",
+  "contact": {
+    "phone": "0911000001",
+    "city": "Hanoi"
+  },
+  "interests": [
+    "Technology",
+    "Science"
+  ],
+  "joined_at": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6863827e344375b49b748a60"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "IiIiIuKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Thi D",
+  "email": "trand@example.com",
+  "contact": {
+    "phone": "0909000002",
+    "city": "Da Nang"
+  },
+  "interests": [
+    "Fiction",
+    "History",
+    "Science"
+  ],
+  "joined_at": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6863827e344375b49b748a61"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "MzMzM+KbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Pham Van E",
+  "email": "phame@domain.com",
+  "contact": {
+    "city": "Ho Chi Minh City"
+  },
+  "interests": [
+    "Art"
+  ],
+  "joined_at": {
+    "$date": "2023-11-10T00:00:00.000Z"
+  }
+}]

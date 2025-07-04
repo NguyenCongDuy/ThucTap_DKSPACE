@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "title": "MongoDB for Beginners",
+  "author": "John Doe",
+  "category": "Database",
+  "stock": 5
+},
+{
+  "_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "title": "Node.js in Action",
+  "author": "Jane Smith",
+  "category": "Programming",
+  "stock": 3
+},
+{
+  "_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "category": "Software Engineering",
+  "stock": 2
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "68626de8b8f5f95777748a60"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "amount": 1000,
+  "type": "DEPOSIT",
+  "transaction_date": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  }
+}]

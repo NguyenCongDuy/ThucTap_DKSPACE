@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6865f5c14498c50a4351b92a"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "EREREREREREREREREREREQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book": {
+    "book_id": {
+      "$binary": {
+        "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+        "subType": "04"
+      }
+    },
+    "title": "MongoDB for Beginners",
+    "author": "John Doe",
+    "category": "Database"
+  },
+  "borrow_date": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "return_date": null
+}]

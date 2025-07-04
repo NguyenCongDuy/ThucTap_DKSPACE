@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6864a29a10f86185fae1f072"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi B",
+  "email": "nguyenb@example.com",
+  "joined_at": {
+    "$date": "2024-03-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6864a3a610f86185fae1f076"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAAQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Van A",
+  "email": "newemail@example.com",
+  "joined_at": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6864a3a610f86185fae1f077"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAAg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Thi C",
+  "email": "lec@example.com",
+  "joined_at": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68650cbd8d8ee36333748a61"
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "Ej5FZ+ibEtOkVkJmFBdAEQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Thi Da",
+  "email": "lesad@example.com",
+  "joined_at": {
+    "$date": "2025-07-02T10:41:01.816Z"
+  }
+}]

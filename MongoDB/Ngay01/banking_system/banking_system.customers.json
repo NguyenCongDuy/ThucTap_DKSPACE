@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "68626d83b8f5f95777748a5f"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Van A",
+  "email": "newemail@example.com",
+  "created_at": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68626e04b8f5f95777748a62"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Thi B",
+  "email": "tran.b@example.com",
+  "created_at": {
+    "$date": "2024-02-10T09:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68626e04b8f5f95777748a63"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Van C",
+  "email": "le.van.c@example.com",
+  "created_at": {
+    "$date": "2024-06-15T14:30:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68626e04b8f5f95777748a64"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAw==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi D",
+  "email": "nguyenthi.d@example.com",
+  "created_at": {
+    "$date": "2023-12-20T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68626e04b8f5f95777748a65"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Pham Van E",
+  "email": "phamvan.e@example.com",
+  "created_at": {
+    "$date": "2024-03-25T16:10:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68626f5bb8f5f95777748a66"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Thi B",
+  "email": "tran.b@example.com",
+  "created_at": {
+    "$date": "2024-02-10T09:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68626f5bb8f5f95777748a67"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Van C",
+  "email": "le.van.c@example.com",
+  "created_at": {
+    "$date": "2024-06-15T14:30:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68626f5bb8f5f95777748a68"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAw==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi D",
+  "email": "nguyenthi.d@example.com",
+  "created_at": {
+    "$date": "2023-12-20T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68626f5bb8f5f95777748a69"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Pham Van E",
+  "email": "phamvan.e@example.com",
+  "created_at": {
+    "$date": "2024-03-25T16:10:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68627000b8f5f95777748a6a"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Thi B",
+  "email": "tran.b@example.com",
+  "created_at": {
+    "$date": "2024-02-10T09:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68627000b8f5f95777748a6b"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Van C",
+  "email": "le.van.c@example.com",
+  "created_at": {
+    "$date": "2024-06-15T14:30:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68627000b8f5f95777748a6c"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAw==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi D",
+  "email": "nguyenthi.d@example.com",
+  "created_at": {
+    "$date": "2023-12-20T08:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68627000b8f5f95777748a6d"
+  },
+  "customer_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Pham Van E",
+  "email": "phamvan.e@example.com",
+  "created_at": {
+    "$date": "2024-03-25T16:10:00.000Z"
+  },
+  "status": "ACTIVE"
+}]

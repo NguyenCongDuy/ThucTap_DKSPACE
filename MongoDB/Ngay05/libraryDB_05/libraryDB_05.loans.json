@@ -1,0 +1,538 @@
+[{
+  "_id": {
+    "$oid": "686769b2359684144870c30e"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwyg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "oae4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "The Hobbit",
+      "borrow_date": {
+        "$date": "2024-04-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c30f"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwyw==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAw==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "oqe4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Sapiens",
+      "borrow_date": {
+        "$date": "2024-03-20T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c310"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwzA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "o6e4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Clean Code",
+      "borrow_date": {
+        "$date": "2024-04-03T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "pKe4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Refactoring",
+      "borrow_date": {
+        "$date": "2024-04-03T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2025-05-30T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c311"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwzQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABQ==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "pae4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "The Pragmatic Programmer",
+      "borrow_date": {
+        "$date": "2024-04-04T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c312"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwzg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABg==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "pqe4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "The Martian",
+      "borrow_date": {
+        "$date": "2024-03-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-02-11T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c313"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwzw==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABw==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "p6e4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Atomic Habits",
+      "borrow_date": {
+        "$date": "2024-04-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2023-06-28T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c314"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQACA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "qKe4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Deep Work",
+      "borrow_date": {
+        "$date": "2024-04-20T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "qae4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "The Lean Startup",
+      "borrow_date": {
+        "$date": "2024-04-21T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686769b2359684144870c315"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0Q==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQACQ==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "sKe4EJ2tEdGAtADAT9QwyA==",
+          "subType": "04"
+        }
+      },
+      "title": "Thinking Fast and Slow",
+      "borrow_date": {
+        "$date": "2024-04-25T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68677da37801e15e83d986fb"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwwQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAAAQ==",
+          "subType": "04"
+        }
+      },
+      "title": "Dune",
+      "borrow_date": {
+        "$date": "2024-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAAAg==",
+          "subType": "04"
+        }
+      },
+      "title": "1984",
+      "borrow_date": {
+        "$date": "2024-04-02T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68677da37801e15e83d986fc"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwwg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAg==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAAAw==",
+          "subType": "04"
+        }
+      },
+      "title": "Brave New World",
+      "borrow_date": {
+        "$date": "2024-03-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+},
+{
+  "_id": {
+    "$oid": "68677da37801e15e83d986fd"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwww==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAw==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAAAQ==",
+          "subType": "04"
+        }
+      },
+      "title": "Dune",
+      "borrow_date": {
+        "$date": "2024-04-10T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAABA==",
+          "subType": "04"
+        }
+      },
+      "title": "To Kill a Mockingbird",
+      "borrow_date": {
+        "$date": "2024-04-12T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68677da37801e15e83d986fe"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwxA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABQ==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAABQ==",
+          "subType": "04"
+        }
+      },
+      "title": "Fahrenheit 451",
+      "borrow_date": {
+        "$date": "2024-05-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68677da37801e15e83d986ff"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwxQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQABg==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAAAg==",
+          "subType": "04"
+        }
+      },
+      "title": "1984",
+      "borrow_date": {
+        "$date": "2024-04-18T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "68677da37801e15e83d98700"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qwxg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQACA==",
+      "subType": "04"
+    }
+  },
+  "books": [
+    {
+      "book_id": {
+        "$binary": {
+          "base64": "EAAAAAAAAAAAAAAAAAAABg==",
+          "subType": "04"
+        }
+      },
+      "title": "The Great Gatsby",
+      "borrow_date": {
+        "$date": "2024-06-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+}]

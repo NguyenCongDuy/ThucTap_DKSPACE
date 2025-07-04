@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6865f5c64498c50a4351b92b"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "IiIiIiIiIiIiIiIiIiIiIg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  },
+  "return_date": null
+}]
