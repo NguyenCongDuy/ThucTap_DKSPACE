@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "686e4675e76ef9166b8a2703"
+  },
+  "appointment_id": {
+    "$binary": {
+      "base64": "qqEREaqqqqqqqqqqqqqqqg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EREREREREREREREREREREQ==",
+      "subType": "04"
+    }
+  },
+  "doctor_id": {
+    "$binary": {
+      "base64": "0REREaqqqqqqqqqqqqqqqg==",
+      "subType": "04"
+    }
+  },
+  "appointment_date": {
+    "$date": "2025-07-09T13:00:00.000Z"
+  },
+  "status": "COMPLETED",
+  "diagnosis": "General Checkup"
+},
+{
+  "_id": {
+    "$oid": "686e4675e76ef9166b8a2704"
+  },
+  "appointment_id": {
+    "$binary": {
+      "base64": "qqIiIqqqqqqqqqqqqqqqqg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IiIiIiIiIiIiIiIiIiIiIg==",
+      "subType": "04"
+    }
+  },
+  "doctor_id": {
+    "$binary": {
+      "base64": "0iIiIru7u7u7u7u7u7u7uw==",
+      "subType": "04"
+    }
+  },
+  "appointment_date": {
+    "$date": "2025-07-08T09:00:00.000Z"
+  },
+  "status": "COMPLETED",
+  "diagnosis": "Flu symptoms"
+},
+{
+  "_id": {
+    "$oid": "686e4675e76ef9166b8a2705"
+  },
+  "appointment_id": {
+    "$binary": {
+      "base64": "qqMzM6qqqqqqqqqqqqqqqg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MzMzMzMzMzMzMzMzMzMzMw==",
+      "subType": "04"
+    }
+  },
+  "doctor_id": {
+    "$binary": {
+      "base64": "0zMzM8zMzMzMzMzMzMzMzA==",
+      "subType": "04"
+    }
+  },
+  "appointment_date": {
+    "$date": "2025-07-10T15:30:00.000Z"
+  },
+  "status": "COMPLETED",
+  "diagnosis": "Dental cleaning"
+},
+{
+  "_id": {
+    "$oid": "686e4cd5e76ef9166b8a28fd"
+  },
+  "appointment_id": {
+    "$binary": {
+      "base64": "tWfZPIpeSU2UrgDo2pGvqg==",
+      "subType": "04"
+    }
+  },
+  "patient": {
+    "patient_id": {
+      "$binary": {
+        "base64": "EREREREREREREREREREREQ==",
+        "subType": "04"
+      }
+    },
+    "full_name": "Nguyen Van A",
+    "email": "a.nguyen@example.com"
+  },
+  "doctor_id": {
+    "$binary": {
+      "base64": "2qA2zk0wRhakWHEXRQYCZg==",
+      "subType": "04"
+    }
+  },
+  "appointment_date": {
+    "$date": "2025-07-10T10:30:00.000Z"
+  },
+  "status": "SCHEDULED"
+}]

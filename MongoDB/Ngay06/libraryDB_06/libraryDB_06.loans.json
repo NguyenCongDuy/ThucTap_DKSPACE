@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "686b35a655fad4f6887e1555"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b6a26dc75ea428a8c240c"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "7fy0DX2ITR+yhLEN8yBENQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T06:33:10.247Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T06:33:10.247Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b9569dc75ea428a8c240f"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "+8ZWKEljR4uwr6ddPbQRDQ==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T09:37:45.599Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T09:37:45.599Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b96ec5a82cd6b5c77346c"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "IhE2ycCiR7Sb3Soh8DQxtg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T09:44:12.064Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T09:44:12.064Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b97bd5a82cd6b5c77346d"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "9FgMlcPJTuyWhNWJXdgU8A==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T09:47:41.024Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T09:47:41.024Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b9f0f087007551d60918f"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "JZhDXcwjS1eii3GoRkET1g==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T10:18:55.484Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T10:18:55.484Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b9f23087007551d609190"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "bkNfMbjvSaSB5r7WLsrAng==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T10:19:15.733Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T10:19:15.733Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "686b9f84087007551d609191"
+  },
+  "loan_id": {
+    "$binary": {
+      "base64": "q2fP4XLXQL2e+dluDB/zzg==",
+      "subType": "04"
+    }
+  },
+  "member_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "borrow_date": {
+    "$date": "2025-07-07T10:20:52.417Z"
+  },
+  "due_date": {
+    "$date": "2025-07-21T10:20:52.417Z"
+  },
+  "status": "ACTIVE"
+}]

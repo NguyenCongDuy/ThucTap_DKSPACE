@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "686c8badd2f0990f5a8fa239"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwwQ==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 5500,
+  "bid_time": {
+    "$date": "2025-06-01T10:15:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686c8badd2f0990f5a8fa23a"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9Qwwg==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 5700,
+  "bid_time": {
+    "$date": "2025-07-08T10:30:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686c8badd2f0990f5a8fa23b"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9Qwww==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 6000,
+  "bid_time": {
+    "$date": "2025-06-01T11:00:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686c8badd2f0990f5a8fa23c"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwxA==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 3200,
+  "bid_time": {
+    "$date": "2024-06-02T09:30:00.000Z"
+  },
+  "status": "PENDING"
+},
+{
+  "_id": {
+    "$oid": "686c8badd2f0990f5a8fa23d"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwxQ==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 3400,
+  "bid_time": {
+    "$date": "2024-07-06T10:15:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686d18aed7db12fc5f70485c"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwwQ==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 5500,
+  "bid_time": {
+    "$date": "2024-06-01T10:15:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686d18aed7db12fc5f70485d"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9Qwwg==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 5700,
+  "bid_time": {
+    "$date": "2024-06-01T10:30:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686d18aed7db12fc5f70485e"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9Qwww==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 6000,
+  "bid_time": {
+    "$date": "2024-06-01T11:00:00.000Z"
+  },
+  "status": "ACCEPTED"
+},
+{
+  "_id": {
+    "$oid": "686d18aed7db12fc5f70485f"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwxA==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 3200,
+  "bid_time": {
+    "$date": "2024-06-02T09:30:00.000Z"
+  },
+  "status": "PENDING"
+},
+{
+  "_id": {
+    "$oid": "686d18aed7db12fc5f704860"
+  },
+  "bid_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwxQ==",
+      "subType": "04"
+    }
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "bid_amount": 3400,
+  "bid_time": {
+    "$date": "2024-06-02T10:15:00.000Z"
+  },
+  "status": "ACCEPTED"
+}]

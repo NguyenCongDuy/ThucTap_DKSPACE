@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "686c8ba5d2f0990f5a8fa234"
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "title": "Vintage Car Auction",
+  "item_description": "1965 Mustang",
+  "category": "Automobile",
+  "start_date": {
+    "$date": "2024-06-01T10:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-06-01T18:00:00.000Z"
+  },
+  "starting_price": 5000,
+  "current_highest_bid": 0
+},
+{
+  "_id": {
+    "$oid": "686c8ba5d2f0990f5a8fa235"
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "title": "Antique Painting Auction",
+  "item_description": "Van Gogh Replica",
+  "category": "Art",
+  "start_date": {
+    "$date": "2024-06-02T09:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-06-02T17:00:00.000Z"
+  },
+  "starting_price": 3000,
+  "current_highest_bid": 0
+},
+{
+  "_id": {
+    "$oid": "686d18a4d7db12fc5f704857"
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAA==",
+      "subType": "04"
+    }
+  },
+  "title": "Vintage Car Auction",
+  "item_description": "1965 Mustang",
+  "category": "Automobile",
+  "start_date": {
+    "$date": "2024-06-01T10:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-06-01T18:00:00.000Z"
+  },
+  "starting_price": 5000,
+  "current_highest_bid": 0
+},
+{
+  "_id": {
+    "$oid": "686d18a4d7db12fc5f704858"
+  },
+  "auction_id": {
+    "$binary": {
+      "base64": "VQ6EAOKbQdSnFkRmVUQAAQ==",
+      "subType": "04"
+    }
+  },
+  "title": "Antique Painting Auction",
+  "item_description": "Van Gogh Replica",
+  "category": "Art",
+  "start_date": {
+    "$date": "2024-06-02T09:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-06-02T17:00:00.000Z"
+  },
+  "starting_price": 3000,
+  "current_highest_bid": 0
+}]

@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "686c8ba9d2f0990f5a8fa236"
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Van B",
+  "email": "tran@example.com",
+  "registered_at": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686c8ba9d2f0990f5a8fa237"
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi A",
+  "email": "nguyen@example.com",
+  "registered_at": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686c8ba9d2f0990f5a8fa238"
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Hoang C",
+  "email": "lehoang@example.com",
+  "registered_at": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686d18aad7db12fc5f704859"
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Tran Van B",
+  "email": "tran@example.com",
+  "registered_at": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686d18aad7db12fc5f70485a"
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Nguyen Thi A",
+  "email": "nguyen@example.com",
+  "registered_at": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686d18aad7db12fc5f70485b"
+  },
+  "bidder_id": {
+    "$binary": {
+      "base64": "a6e4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "full_name": "Le Hoang C",
+  "email": "lehoang@example.com",
+  "registered_at": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+}]

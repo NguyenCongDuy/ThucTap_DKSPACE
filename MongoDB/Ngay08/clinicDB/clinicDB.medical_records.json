@@ -1,0 +1,10152 @@
+[{
+  "_id": {
+    "$oid": "686e4886d0164588abe2f0b5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EREREREREREREREREREREQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-08T10:15:00.000Z"
+  },
+  "symptoms": [
+    "cough",
+    "headache"
+  ],
+  "prescription": "Decolgen",
+  "notes": "Uống 3 ngày liên tục"
+},
+{
+  "_id": {
+    "$oid": "686e4886d0164588abe2f0b6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IiIiIiIiIiIiIiIiIiIiIg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-06-29T14:00:00.000Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Paracetamol 500mg",
+  "notes": "Theo dõi nhiệt độ hàng ngày"
+},
+{
+  "_id": {
+    "$oid": "686e4886d0164588abe2f0b7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MzMzMzMzMzMzMzMzMzMzMw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T08:45:00.000Z"
+  },
+  "symptoms": [
+    "toothache"
+  ],
+  "prescription": "Panadol Extra",
+  "notes": "Khám răng lại sau 5 ngày"
+},
+{
+  "_id": {
+    "$oid": "686e467ae76ef9166b8a2706"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EREREREREREREREREREREQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-08T10:15:00.000Z"
+  },
+  "symptoms": [
+    "cough",
+    "headache"
+  ],
+  "prescription": "Decolgen",
+  "notes": "Uống 3 ngày liên tục"
+},
+{
+  "_id": {
+    "$oid": "686e467ae76ef9166b8a2707"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IiIiIiIiIiIiIiIiIiIiIg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-06-29T14:00:00.000Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Paracetamol 500mg",
+  "notes": "Theo dõi nhiệt độ hàng ngày"
+},
+{
+  "_id": {
+    "$oid": "686e467ae76ef9166b8a2708"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MzMzMzMzMzMzMzMzMzMzMw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T08:45:00.000Z"
+  },
+  "symptoms": [
+    "toothache"
+  ],
+  "prescription": "Panadol Extra",
+  "notes": "Khám răng lại sau 5 ngày"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a276d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "kPel3/jrQUeHDGe+BcFlgA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "oVnKJbImRU2Z6Gdrq6cnpA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 1",
+  "notes": "Record note 1"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a276e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "m1VCqEAMQSKiSDv5leP82w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "YCo3dssDTLCVBQaXDWcf+A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 2",
+  "notes": "Record note 2"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a276f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VVXKKQRARIyVk7yXEu7/kQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WoP3/pmyRX2DnN+3tbkVoA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 3",
+  "notes": "Record note 3"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2770"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "0UdLdshZQ+iXQUly9PeQ/Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "kpHXdEUoSueOV2+oGOjZ0A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 4",
+  "notes": "Record note 4"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2771"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "J1fzcvQbRM2/i9T7/DnZUw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jv4akiG4Qp+/3PrPQ5+7Eg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 5",
+  "notes": "Record note 5"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2772"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5hEXqnFNSCiipGmTHTPhUA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "9Q1a/fd3RYuPCeF2X82IuQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 6",
+  "notes": "Record note 6"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2773"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "WKGELXs/Q4W+itEsrO0MXw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "UDWxlGg/QROFJxzcaHhHOg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 7",
+  "notes": "Record note 7"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2774"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "sOPfFuGrSxeP662K6ovRDQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WUWG7jE4RoybxQTZr2uuBQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 8",
+  "notes": "Record note 8"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2775"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "0kAF72ZpTzivkqc3Tkq5PQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Th0JF7eqT+K8KPREDlzeAg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 9",
+  "notes": "Record note 9"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2776"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "/wB/GxDzS+iW9ZoGfJGm0g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "lstn7sbaQraAL2BypmMqhg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 10",
+  "notes": "Record note 10"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2777"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "pVzdixLlQJ6S50PRGWVcIQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "OrcjmaewTIGaCCLlBefVLw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 11",
+  "notes": "Record note 11"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2778"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Kq2RVdBbRd2bztTblKzX/w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "KrKZYyLcSvCoCTwG3/LAVQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 12",
+  "notes": "Record note 12"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2779"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "URObWqw6TM+oOUkePKE/sg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8+gyEU05Q7W/5yUJCriexQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 13",
+  "notes": "Record note 13"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a277a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VoLOWozeQ02lwj301UV3eQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jhp/MFI6Rg6JeglDIO8ATg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 14",
+  "notes": "Record note 14"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a277b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "jfT58DBkTXehPFbhjLFeHQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HyJkqw1hQwujShYH9Lzz3g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 15",
+  "notes": "Record note 15"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a277c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "MK7ePzWTT+2Si11AFe5Bjg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "DIZ/zrDqTgmD9n2j9pXD6g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 16",
+  "notes": "Record note 16"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a277d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Pj3YN+BJSnmXp+WHvq6X3A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "admR9jTnSzmpdho/VKMgFg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 17",
+  "notes": "Record note 17"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a277e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "q9sj+GGGQxumF8N8pJoyNg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Q65DCi/YQIm+zipjsSzlxg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 18",
+  "notes": "Record note 18"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a277f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YwY0l6igQuWi3Pc0XV6ONg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hmvz05grQUqdDztbfBUKRw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 19",
+  "notes": "Record note 19"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2780"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5U6+PftISKK4fhv0gUn1BA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Yv3RGxPXSoOZQuGp2E/pHQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 20",
+  "notes": "Record note 20"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2781"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "S7pptoaERAiRuBm2YiUxbA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "QfcVuz6xQDa/eUOlNpZP7w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 21",
+  "notes": "Record note 21"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2782"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "hk5OWYE2SPavfK1gqgAYZw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "DO3mmB7PRsGFHCyFbFJUSg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 22",
+  "notes": "Record note 22"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2783"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XVnLJKr5QdCkoCYqS7ar8w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Jbhv9ufoToSDT33s+PGwWw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 23",
+  "notes": "Record note 23"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2784"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7rvXvh0ySVqvBud7QB0Dww==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "AnjUFZi+Tuekc8audUNPEw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 24",
+  "notes": "Record note 24"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2785"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "G69QyxE9Qe6LpazYSCPIVQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "pvVNa1nvSW6K/tWgsCe9Ng==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 25",
+  "notes": "Record note 25"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2786"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "+EfV9rcUQAer6Oo9hv0tbg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "4sq94cPNRwewSPXkNm3Tig==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 26",
+  "notes": "Record note 26"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2787"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "bxOTQ7otQEyHzEhMVE119g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "56hy2Y3jSPOyCA2R9wj4Hg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 27",
+  "notes": "Record note 27"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2788"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xPmezDLiSm6SxaA3uWKNjA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "kmCIoylXS6qmj9Km2buVlg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 28",
+  "notes": "Record note 28"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2789"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "i5cEoGUjS7extfj0BdG8Zg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jtLN7h2zR42WVJ8d8X4sPA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 29",
+  "notes": "Record note 29"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a278a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "s+iPreNdS8eEh8AJsyEtXw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "iK5UsgkRQT+odcN+5ZEiYg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 30",
+  "notes": "Record note 30"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a278b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "J7W0pbylTGy9oSMlWPU0ug==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "5s72vumQRwek+NOGNz/2iA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 31",
+  "notes": "Record note 31"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a278c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "em5JJivlQmOngY6n+7haaA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "LskTtLfeSCmTAxeNDRNxeg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 32",
+  "notes": "Record note 32"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a278d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "pQSdpQoSSkO2KrSMI3VsfQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "X4Uz27MiTcexYlE7UlfnBg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 33",
+  "notes": "Record note 33"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a278e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "fX/OLNXmS3CcfghYpnGjIQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "BWYgYX3pTLysC72LTy01Nw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 34",
+  "notes": "Record note 34"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a278f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "IdWlsaeBQTms7m6nniky6w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "98/tUcizTzmFD1F8nZi37A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 35",
+  "notes": "Record note 35"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2790"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ocJw65SpRrWKadWbUuAFNA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rSDbnt/eS0SMxFciqIxnFA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 36",
+  "notes": "Record note 36"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2791"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "pHQMed7RQUGQSUrO7Q7YlQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7eO4r2GbRx24o+EQ9jF+0w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 37",
+  "notes": "Record note 37"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2792"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VatY4+bpSlSqLFnsZV9pcw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "udXR7VNVScaJBV/m/jX1xQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 38",
+  "notes": "Record note 38"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2793"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "/4PUd2VbTPKXE51DWzv/3Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "/1ps4CLOTPyl6Pbw1AY2DQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.593Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 39",
+  "notes": "Record note 39"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2794"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7OdXuNUDTX+YBe+AnnBdYg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "lTnIpmM4T+ir52aZ1baQYQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 40",
+  "notes": "Record note 40"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2795"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "McfgdDNjSCaFtEB5MUcO0A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8kzOjYjDRE6nh3Iq2/sHVw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 41",
+  "notes": "Record note 41"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2796"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "FYxBnjDfTqiOCPdcCcP3uQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7xBJnd2HTuurdireqUC8Lw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 42",
+  "notes": "Record note 42"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2797"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Jq8YqC4TTVaIGnZ2da+yEg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "pbt+eY2gTuS1nJKqkQbf1w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 43",
+  "notes": "Record note 43"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2798"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YarD+BSISXuv3S2mMe7HYA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "BJBY6ydsT+immt5kgguL8w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 44",
+  "notes": "Record note 44"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2799"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "I30Icm+LTS2O+MiPUmkJ0g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "c8szY0DaThm9WVoa+zKs0Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 45",
+  "notes": "Record note 45"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a279a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OkBugQOdTcWbwMdi87vscw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "56gULKlKQ1eVPATzFwQq3A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 46",
+  "notes": "Record note 46"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a279b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XLT+jzCyTrmscmpg9+4g2Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "4GJB64IWT0+Pwd7s2w+/mQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 47",
+  "notes": "Record note 47"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a279c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "AVkvulR/RWKyS+eviBZ4/g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1zgEODiIQQKw0qWykJBv6Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 48",
+  "notes": "Record note 48"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a279d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ux5212Z7RFOOxi/Cq6bm2Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MwHo+UwDRsy5b2ZvD1Rw8A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 49",
+  "notes": "Record note 49"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a279e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "yUOsUZz9QJOoa9lRX1LJag==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "uGjRK/HwS8OIf+8UGg3pvQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 50",
+  "notes": "Record note 50"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a279f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "fjc0v3nLQ+aqzMyZ1Bp/2A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "3vq6E3nbRdSS65Ard2eLTA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 51",
+  "notes": "Record note 51"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "DyWIpX6VRE2ExpxQYM8qJA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TFH32AsJTAe7DmP3FC2hCA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 52",
+  "notes": "Record note 52"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "gDHPlibwRYiaI5VSk5sArQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6cZRtY8WSjWG71XtVYkNoQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 53",
+  "notes": "Record note 53"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "LPMVr7u+SjGmwkr20RydLw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "lszgxKpgSuWMzC83QQ0UnA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 54",
+  "notes": "Record note 54"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "E+XApc3rSwyuwy2tS2h2RQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "YNA1djCtTVWXMbEc/vX/Lg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 55",
+  "notes": "Record note 55"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xx/nry6lQ/WRCeXz7uSxoA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "9hJzMmYJTxeRlatm+CTkQg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 56",
+  "notes": "Record note 56"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "GxCSKKBOTICc7IXKyAvh/w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "di82ak2RR26O6u3u0+aKTA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 57",
+  "notes": "Record note 57"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ahun9JDOREKU1znMB9erXA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "QqIHPJRKSxGuwnrDiltIDQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 58",
+  "notes": "Record note 58"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3EY9t3bDTEmUnu7aBlwuZg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "GQk8zZgtRMOtUtnObViQRg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 59",
+  "notes": "Record note 59"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "hWZqCjdGSh6FwIzlXiVDvA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1XIzAI9vTl2lf+qXt9kp7A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 60",
+  "notes": "Record note 60"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27a9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "R/bdG3lSTiy4BrDjnvsTzQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "P9TLKti4QVixXbvdyToL5A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 61",
+  "notes": "Record note 61"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27aa"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VPPLMqmARfilQNSR4ar1zw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hV8ouYZsQiK93jpXu4f24w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 62",
+  "notes": "Record note 62"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ab"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "miY3X36CSJ2btQ3vxPRong==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IoB1OTAoRb+CIGEhPi73tQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 63",
+  "notes": "Record note 63"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ac"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "fiE461NfT2ODBcwVpkX95Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "g1NGBJ/rQfy5c21iSsyAKg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 64",
+  "notes": "Record note 64"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ad"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "kM1MkcEaRSGTsmMM34A8SA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "wFvV7CEHSxCkl+FpJw71kA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 65",
+  "notes": "Record note 65"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ae"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "U80Y1Bv8TLiMhzHgULBxKQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yUgz5UwaRTC141H1Msumvw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 66",
+  "notes": "Record note 66"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27af"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "nRZa4kepT6SJeM3AEH3h3A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "cH83LVEURvSF2meB0nCuWg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 67",
+  "notes": "Record note 67"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Hdraze+bTIS0uCGXYF8faw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TWrjo3lXTq6OpywUwjkzFQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 68",
+  "notes": "Record note 68"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "vBVKySQiQpCQCl6XvzIiKg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "KD/Gct0HTlOLCQwB/FtyEA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 69",
+  "notes": "Record note 69"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Pj0mLcfDRumCgmSyoRg7ew==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "gHGgU1NFQl2asQWOdTHSpA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 70",
+  "notes": "Record note 70"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7hDZvG37T6KM87RAwqPuiw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "p6J47I4+TQmqktnFEeXxgA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 71",
+  "notes": "Record note 71"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "hKoYY7TQQNCYqMQWVVsR0g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "vW/G+G6KSfeDEPFEINmUnA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 72",
+  "notes": "Record note 72"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Jk7H/9KSTvmgynp8HoqAGQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TiOgRRPNTk6R/c+5eTx8DQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 73",
+  "notes": "Record note 73"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3jrxPn5XTj+tz6b3hPjt3A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "3XWxIVsQR5qnH5okPfUHYg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 74",
+  "notes": "Record note 74"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "8laGTKLJSz2Hfyzntq+X6g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "mBQHzCY9S56cIR87X8Kthg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 75",
+  "notes": "Record note 75"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "6fL3fD+PRXeav3aRd8FwcQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Sir3Ghg6Tl6z2AlwTgDxSA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 76",
+  "notes": "Record note 76"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27b9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "MTrbCAvZQiyomPV/gtkaAw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7EhXF3tfSKaavubDw6dp5Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 77",
+  "notes": "Record note 77"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ba"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "DvJfniGLQCukAkl7mB78Jw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "XDks1q0dRLuWAM9znXhJVQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 78",
+  "notes": "Record note 78"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27bb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "j+h+sZbaSIe/qTyYn9nE/A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "gRkrv5MdTfy9HuM2XV4qug==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 79",
+  "notes": "Record note 79"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27bc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "/9Q4VBbhTzqy/ABYWHQ8Nw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "qiPNHwzbTR+vQEPQQd6Qww==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 80",
+  "notes": "Record note 80"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27bd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "QTE9vEkqRbWSXEd8yIUmYw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "xngaozsUT+iwgyjeGpdtxA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 81",
+  "notes": "Record note 81"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27be"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "euCEYiu3RQKPrUmaXseU+w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "e/KusXrqSzi6aROiYDjM1g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 82",
+  "notes": "Record note 82"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27bf"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "IVCca8mJTfGakH3rv8IWJQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jyQD4A+YQrO9IJa+5+dWhQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 83",
+  "notes": "Record note 83"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "HIkNMH1SST6a15AnQWfEoA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "CKd7VWW6QgSOqdxSckXtrg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 84",
+  "notes": "Record note 84"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PPJ185u0RuGJAT1oopbUsQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "40EDMJlCRSuL0GhQ5ICRcA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 85",
+  "notes": "Record note 85"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OkF2+1KGS3+uxO3YlDiS4Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "SXUCnJC+QK+7difHXAOE6A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.594Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 86",
+  "notes": "Record note 86"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "H/GBtskDSMah43yWUQcgaw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "q1TNVbL1RMWacBjffzV6sQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 87",
+  "notes": "Record note 87"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "amehbMfcSwC8gwypA/St7g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Mfr03t0KRDWPKQvrhWDWGw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 88",
+  "notes": "Record note 88"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "NI12UjiWQ5y9kNtLrPyD6Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ddOPpAq4TTCsot3hFx1e9g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 89",
+  "notes": "Record note 89"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "2NfJyu4bSBWYJ87nGud4Yw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "4jiXrhBGRWWWlUXAAnaCXw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 90",
+  "notes": "Record note 90"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "b3xHie4XSfazTFWInFX9Hw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Rbd+4z23RauH7Ad6C0O0YQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 91",
+  "notes": "Record note 91"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qi5G1EfuRXOLCi10jJB3VA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dNYkiCEGRVWb9w53fMQ33A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 92",
+  "notes": "Record note 92"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27c9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "I1VjsEHHRiSWFri34nA5MQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "oDZR6YzcTye2CffvZ9DlaA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 93",
+  "notes": "Record note 93"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ca"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Vhuc4KRMQbqF3RfCdWXb9A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "LiLPOshnTSaJRGqZy3JNyQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 94",
+  "notes": "Record note 94"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27cb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EAa+yOkbSs6hKCBLoX0K/w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Q7nXeeezRy66CUTpd0OMCg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 95",
+  "notes": "Record note 95"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27cc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "tNGsqfwSRyG7ytG4EJY4Uw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "egPAWMDoR16/qjWTYNovyg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 96",
+  "notes": "Record note 96"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27cd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "sOpCNt26SQGGYIdSNmmCMA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "LkNWNvAwTee6gYoelhUjoQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 97",
+  "notes": "Record note 97"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ce"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "z21Dxfj0QPag1cIbNpSx+g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7gvfiG2HR2yC9M6ru8bP4Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 98",
+  "notes": "Record note 98"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27cf"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "nEQ+oUZMSUOMxf4dFgH79g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "2vOEbowLQsaNo/1dnYGAJQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 99",
+  "notes": "Record note 99"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "v5z1vtu7TRamy+NP7tORsg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "P9QQlv3xTLW+mTARMUk/wA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 100",
+  "notes": "Record note 100"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "tcsvp4jbQ6OzrHnb5y8oUw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yKoIgUCtRrKuCaXD3zB8LA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 101",
+  "notes": "Record note 101"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3jjNDMeNRfOxGcxhHSJ+1Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Jysrnj1mR1qNoiWZ6lozjA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 102",
+  "notes": "Record note 102"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "q0T555oLS9yoyOd7b7Xquw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "kAMf0PE/Qg+BPI+IoFbpMw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 103",
+  "notes": "Record note 103"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Pxk2VMkBR8KKK3DRIlDbeQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jPP6QYc2R6aXnAsZD7xFYQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 104",
+  "notes": "Record note 104"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3uqHOugnTBWfrx1NHp2sBA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WvAS7biST8yCHpfrBOOQUA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 105",
+  "notes": "Record note 105"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "WdwxR/5dRjKQDeh/Fnu88Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "W/dVsedbR4+kMF++qY9v7A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 106",
+  "notes": "Record note 106"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "TXJhEceuRYaKJrIdgFYl4Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "RLieL6K8T4STrgqbWijIHw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 107",
+  "notes": "Record note 107"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "/n3JOgBYRaOcNGTS5oPnYQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yZbPiav0Sv+Nzfo61JfZJg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 108",
+  "notes": "Record note 108"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27d9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9OVvB506T0yZzg9ZycIUnQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dUdJuMSuQayoT8uNQl6vGg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 109",
+  "notes": "Record note 109"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27da"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "1MtqImGyS8CAcdmEzBlTnA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8MToo9y6Tk6gIbQdUYB0qA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 110",
+  "notes": "Record note 110"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27db"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "2tryGQLxTZu4ZWo8Pp4oKQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "b8HFT1PSRFyTRT7XTpoqtQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 111",
+  "notes": "Record note 111"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27dc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "0/Yyclh4S3iMBjm3hFu1pw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jPWoTjkXRAqWWwiikS8Yrg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 112",
+  "notes": "Record note 112"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27dd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9uvwGN3GQByo6SxclbXnmA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "zoSroJpfT92oggDkZTevcQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 113",
+  "notes": "Record note 113"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27de"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "mGqPr0LbS7ebrIq6UqEtxQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "asxZCAO+Q32HV2O/e/AI6Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 114",
+  "notes": "Record note 114"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27df"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ry+tDiexSNOXj+oUb5Xy+Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "3n1R/D8KQHqT/5rKdtVYjA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 115",
+  "notes": "Record note 115"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "j/OQ2ZgWQ9qTCGZINJPY8A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "v+0lwgrBT9Wr5yXoUAuZVQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 116",
+  "notes": "Record note 116"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "nb0Mg9faSZ+8wmpzlLt5qA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "K5Wb/yTLQr2TrW125o23Fw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 117",
+  "notes": "Record note 117"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Up/qcqzRTCaLgoKfgklAFw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "YpzrpN1ySjaPXvZlOE4yDQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 118",
+  "notes": "Record note 118"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "r2jzEZ8KRiGz+aJFF4rxLA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "nGOa8MaqSL+wYUTpolg/+A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 119",
+  "notes": "Record note 119"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "fTNxJshNSQSH4reQniuK0g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "bMrmABOZQDuVQo5ekoUmtA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 120",
+  "notes": "Record note 120"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "GEUhjby/RAWY03y3hhVNAw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Zc3hQCMPSQa78uYvNoCTfg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 121",
+  "notes": "Record note 121"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "wB0unKKpTwKVjFlU3q1tzA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "cKC5qEj+TWWEg78+zwXxBQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 122",
+  "notes": "Record note 122"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "WSXyS6GMSjCCX1v+qeOIhw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "3MqM36/kSmKiwG7Mu/iNow==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 123",
+  "notes": "Record note 123"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "CpcSZnxlSFG6zVMCa7bf2w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "K7g/aecUTryEmZohkMCeeQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 124",
+  "notes": "Record note 124"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27e9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Q1fq/AFeRlqpPTsoDCImAQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "F3Nh4ukdRy2cTkjYgg3kqw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 125",
+  "notes": "Record note 125"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ea"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EBz2tszHT0WOLXw5MZl81Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "e9G5IZwPQ+eCVvKY+Gv8Aw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 126",
+  "notes": "Record note 126"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27eb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ARKhctz9TbuED5oU5BRatA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "mmSEO851RjW0VeHigNYp0A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 127",
+  "notes": "Record note 127"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ec"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xEczz3u0TuCN2qMzm3uSOA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "iWeQeuwrThKRM2B3nDtlAA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 128",
+  "notes": "Record note 128"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ed"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "FUYd5FZES6mpBk62ePnfsA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "epCvCkM6QemdEIiv7b5T6Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 129",
+  "notes": "Record note 129"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ee"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "m9YCA7jUQ8SBpdNB1IsuCQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MrN64eQ4T/eEYZz1PlsVgw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 130",
+  "notes": "Record note 130"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ef"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ChxjquikTOelgFr2Rowx5w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "s/uwOkWFRAeOdvLYzh1RqA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 131",
+  "notes": "Record note 131"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3eq0qozYQ7+V+Hk2Y9fgcw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "T0FlTCBKTP+hI5FJQ7o9DA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.595Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 132",
+  "notes": "Record note 132"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ClzpyT4BRJGef/vlLyy2uQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yM935s0gQIeYoEj5aU+Ssg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 133",
+  "notes": "Record note 133"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YRzcA1xASBawIGDR2xjitQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HEaeDkPUROKE2Bc/Y+YOZw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 134",
+  "notes": "Record note 134"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "uQwIwcjORhug2vG4j9qjnw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "P5LttbY5REmAjZgn1ufLEg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 135",
+  "notes": "Record note 135"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "iUQvahyFQ1OsiXWDv0vXoQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "VqRAK79nT7aaT/34qDsDjQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 136",
+  "notes": "Record note 136"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3NZn725sRr+5pFG16re6Rw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "oBMwSjkqTYWhLdX/Y4ncwg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 137",
+  "notes": "Record note 137"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "pZbumX7eS/yhTOntVfMkHQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HOdtD28bS9OsrAwkdQr5xg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 138",
+  "notes": "Record note 138"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "aUu1GV3UTiuGJHZRPKEJvQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "zHlnckLySEG4WYrgJJnftA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 139",
+  "notes": "Record note 139"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ss29Na0VSB6JZDw9ryK46Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "URgPN1GrSY65vxCK/82pcQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 140",
+  "notes": "Record note 140"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27f9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "iizLmRTkR4GviWCKYLWGvA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "y0Rz3bt9S9qPiWEwtK57dw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 141",
+  "notes": "Record note 141"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27fa"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ixuO/wskRkieL5Ixu01TfQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rtTxFtpOSpywkdxhPPVeyw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 142",
+  "notes": "Record note 142"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27fb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XSeovyJ3QNaPPACowXusgg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EzfApILOSJGml4NmhQpDCQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 143",
+  "notes": "Record note 143"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27fc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "6arAY8ahTuqlk+aLSO2tLA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "E4wfTHfNS7Gio8ZkNbfKKg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 144",
+  "notes": "Record note 144"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27fd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "AShA0wlmR1qYumKn7BPTyg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "CjQ9KpaOTkOyvtMT8Yin6g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 145",
+  "notes": "Record note 145"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27fe"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "tNi9YsO5R1q6ZBSlW5DA9A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rwBDRk0BQPOVFjxWuwEB4w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 146",
+  "notes": "Record note 146"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a27ff"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qJyg+H6KS+iNEkExrJ6Qbw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EYIKVuONSvO1WhwMq0JawQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 147",
+  "notes": "Record note 147"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2800"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "vVgiC1PpRn23bBbaE3vFEQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "qvjk1z3jSbaJSI67YGVBZw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 148",
+  "notes": "Record note 148"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2801"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "UaJIIv1GQ1ejOpsR/OtiqQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "0ANDdRI+RFOwWBkWBmjy1A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 149",
+  "notes": "Record note 149"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2802"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7B8fH0LvR1SnAg5RQezwlw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "s0H3rveTSPKq38sOwanAbA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 150",
+  "notes": "Record note 150"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2803"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "HKP3uGGwQ6mWhbuopPenYw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "t0Gv3T4sTlG2D294tnrm3Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 151",
+  "notes": "Record note 151"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2804"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "uONti7VLQM+YCfnY5Rn6gg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WqGzUZKoSTiPGdybpM3keg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 152",
+  "notes": "Record note 152"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2805"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Oaa0G+fYQFy4TJPz3Ai4IA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "cE+ViO7QT7SiA9oxdIUMnQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 153",
+  "notes": "Record note 153"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2806"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5GqN2a6dRniZkQCTx/6f2A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6YTE8vU2QlOMF/yqS9FCVA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 154",
+  "notes": "Record note 154"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2807"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "LYuapmWVQ8udfQt4bLGkzw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "S/zoLufORA6eYxs5yUrErg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 155",
+  "notes": "Record note 155"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2808"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YIEXqb9AT+OLGniK1jIKRA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "x0XW3XFUQmCFo4Y9eRSgvQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 156",
+  "notes": "Record note 156"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2809"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "sfbnS29jQQOzrLmcBZ2tsQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1O+fpuegR8KG1CQbZYTs9w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 157",
+  "notes": "Record note 157"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a280a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "mMMJ+LnMQN6hTTC0OwcGTg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "A5vmSNRKQ4Wr4y+5UsLw/A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 158",
+  "notes": "Record note 158"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a280b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Sa4akRPYQwqS5dlutmErnA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "0JAnOnuGQd+nghAimcqt2w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 159",
+  "notes": "Record note 159"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a280c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qcvxrZtWTsu3eLJFe2yq1Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "gg7nD8PBS3C0e819YCgr0Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 160",
+  "notes": "Record note 160"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a280d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "CWablTfdT/mhWoFSqWSrkw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "c9K55dvvTKWXw048y7jy5g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 161",
+  "notes": "Record note 161"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a280e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "hw7wHWgoSwWlWD/8SvtWcw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TQOAGP6kRIui2y7SARdNwg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 162",
+  "notes": "Record note 162"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a280f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XzWAIZ0BRMmtJp/QKCnvfg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "npeGk7llTpi5Jatzq/ODlQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 163",
+  "notes": "Record note 163"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2810"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "WMCm/zkIRciGelLzMI8jsw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "pQs0r5QlSK6AbBXG3CkkUg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 164",
+  "notes": "Record note 164"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2811"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "lZzxcC9TT2C5MmhBhfbMWw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "xni+QQKYQHG3WqMAGwsRgw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 165",
+  "notes": "Record note 165"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2812"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qmC2TJE/Qzmbo7H4jZ+Yvw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "/05OTT9fQH6L2QxldlI6Sw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 166",
+  "notes": "Record note 166"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2813"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "F6fTKQnPSXSYoqoXFc8NLg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "N45FHmzsRBqrkGGwOh/Veg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 167",
+  "notes": "Record note 167"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2814"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7iSCzxn3TGOcNugeSEvryw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "kC5qbEqDSua+iK9gc3CJ/Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 168",
+  "notes": "Record note 168"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2815"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "uEXE9zMYQNq9yfOO9pIJZg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "eXm83YLUSYiRCNMJvPldDQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 169",
+  "notes": "Record note 169"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2816"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "4Vszou6XR26ciOQx2h5LAg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "9LIzfvmER++7kTZe3O2JBw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 170",
+  "notes": "Record note 170"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2817"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "GbgrOeWhSgGB8a5X/SxpJw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yDMOC4/2QOWAgv0spHpeVg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 171",
+  "notes": "Record note 171"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2818"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "MJaKu+pMShuzlSErikdfeA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8HBwnSeDSnmXcOguyl09qA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 172",
+  "notes": "Record note 172"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2819"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "pbz9Vt/oRJOqgl7+J5p0hw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TlCUxv+lQvarC0XdYP8Qrg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 173",
+  "notes": "Record note 173"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a281a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Y0kH1TloRv6yclN8ohNcjg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "L4FdEgMiS/2FMlQNrrKbqA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 174",
+  "notes": "Record note 174"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a281b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "iR5NxLDpQqqDKQJeX37+rQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "9/n33uJrRsaoBZsTuxSJOQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 175",
+  "notes": "Record note 175"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a281c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OnTabT9sQgKScKo1tyMtBg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "/zXEQy3RQJuu6SfzfWKbOw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 176",
+  "notes": "Record note 176"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a281d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Fzl0AZH7TdeyEub9zuZYFQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "FFZWH5I3QpiZRkrDCUNfmA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 177",
+  "notes": "Record note 177"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a281e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5NknHhJbRpqzZIn21WXMJQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "zQd6eMsUS4aZ4z3WSypV6g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 178",
+  "notes": "Record note 178"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a281f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "2v6fh11ARIenk2ASqcCGhQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "5tWwSGtvR7CUGb7cPkmpsA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 179",
+  "notes": "Record note 179"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2820"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "UNTdBXk6SrWsieLQ0NMSQg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HjO/DA8DQ/+KgRoRZ5ptdA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 180",
+  "notes": "Record note 180"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2821"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "1DL+LK1oRRuOQ3qKA17NyQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "erhQ4WA3R4Gj8ae63pEL8g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 181",
+  "notes": "Record note 181"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2822"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "KU4l6f5ZQuCgNSU5Ubgr1A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ngbYcHgQRvq2sgfA4h4Sgg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 182",
+  "notes": "Record note 182"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2823"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "a/VgBUnET3+bmkaJPwcn6w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "W5LzbLBlTfu1BRLNh3oCTg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 183",
+  "notes": "Record note 183"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2824"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "h9PyTzupRgGkA0z7PEyVnQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ml20JP4iTm+Kzt9oAHcY7g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 184",
+  "notes": "Record note 184"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2825"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Q5p47peRSjeIzQO1OuhbqQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "t/CR7uZPRQeFg9/w6ZEccQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 185",
+  "notes": "Record note 185"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2826"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Vaw3N4zoRKOF1s6mD5VM4w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "afwEZ5YHSMaA/buibHR2bw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 186",
+  "notes": "Record note 186"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2827"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XF/0a4J/TI+AzYSYtRHq9A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "H/asFM9UROeanodHhenngQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 187",
+  "notes": "Record note 187"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2828"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9toSopR9RlKkEEwCm9fQqw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "DW1afCZ0RWqbzB7Vp232qg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 188",
+  "notes": "Record note 188"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2829"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "gxMe46ylRHChLLNTuoBAlg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "5PJ249/5Sq+LFhh9kX0kRg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 189",
+  "notes": "Record note 189"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a282a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "s1wgzod1S0KrZODC5a0CaQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "pHWzwAf3RpS4XCaRhEPUMA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 190",
+  "notes": "Record note 190"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a282b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "43f9sOsYRaC9iWVg2GjVQg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WO7XQrLxQ1ynDqIf3f+b5Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 191",
+  "notes": "Record note 191"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a282c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "pDxkReGOT5mgRGimTMwlug==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "blARp8KUQo+/Gf6vh9uaNA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 192",
+  "notes": "Record note 192"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a282d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "F0WaZoWGTm+1YF02Way8iQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dvesFzLnS82bk9sMvKlojA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 193",
+  "notes": "Record note 193"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a282e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xNKEWNs3R1CB1HhONbkg5g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dxgPiiMaQ++Nr+GaYqc9ZQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 194",
+  "notes": "Record note 194"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a282f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "2gdnSMFZRSe7ug4wZeyqdw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "cBB93h8UTsaAfO8UPMiNFA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 195",
+  "notes": "Record note 195"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2830"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YiIFXNskS720OUCrd7/O4A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "P7qWRJNCT6SRdCHlK7tnMg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 196",
+  "notes": "Record note 196"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2831"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YX4QSWFxROukIxl4eIg4jg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "n6WHTX41Ss+XSlwzk3clKg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 197",
+  "notes": "Record note 197"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2832"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "KKoRYf1uQkmHnzfO+ufj5w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EdaQDf8ERo+lhLLJ6mupJA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 198",
+  "notes": "Record note 198"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2833"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "u/YaiaYRRNa4vRnJqWbWAw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "3+ZQbjlZSmaeDd3oNWMxlA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.596Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 199",
+  "notes": "Record note 199"
+},
+{
+  "_id": {
+    "$oid": "686e4b5fe76ef9166b8a2834"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "vGJCxnq6TAiIr5Eymp+RSA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "cBr0QAq5Sb+Ri6RIrCAe2w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:58:39.597Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 200",
+  "notes": "Record note 200"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2835"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9CE6UD0CTBqe2MJoNy/Z2Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "zq3L25y4QhKeQANeZVu5XQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 1",
+  "notes": "Record note 1"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2836"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EUVCNZgLQoazEcg8m9PkAg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7Gb+MEk7QBKm8f0cgUUwJw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 2",
+  "notes": "Record note 2"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2837"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "aGxUOVM2QkeZLz0NLCLhGA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1zXIwkfxR9KgroAjvdKViw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 3",
+  "notes": "Record note 3"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2838"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "KlUgtkWdS5+pIwyx6BSTgg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "sJ6oGZvZToKbHaN0eqaIGQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 4",
+  "notes": "Record note 4"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2839"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "T8CWUWpeSAucdPtEaEGHOg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "JOxOuvbuQUyV3LVtkTQMrQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 5",
+  "notes": "Record note 5"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a283a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "REBN9STgTCWwvbFQmOCBSQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "NgXa1VL/RQiphv/NYtpGeQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 6",
+  "notes": "Record note 6"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a283b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "TY6zZZCwQfilDRFnSgk+bQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "YwJgTv+OQHSTGpY56LsGJA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 7",
+  "notes": "Record note 7"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a283c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "j4hK36S6Qrq7hC9VkkzP+w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "343Tv4gYQta2W7IzKxi/kQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 8",
+  "notes": "Record note 8"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a283d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "vl8uj6WJQEuqpYKeR5EaQw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dWwdxegTTlKO08q7J6xUqg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.487Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 9",
+  "notes": "Record note 9"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a283e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "zDgrgiXtRtG25vxtxkZKzw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "fqJpB+LwTt22ncVcU+zDJw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 10",
+  "notes": "Record note 10"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a283f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "iV9fj8gcSrePgJE27z7Fzw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "DwNdmzuJRl+yWYcCDim47w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 11",
+  "notes": "Record note 11"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2840"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "v4tZUQBzR4a2dikMhFpztA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ZdKMuSWDS46sg5BLX/5pTg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 12",
+  "notes": "Record note 12"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2841"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qVuCB8W9SEuEwWD3wvAlOA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jSjvdrrpQHyk845tsIFJCg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 13",
+  "notes": "Record note 13"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2842"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "eEOm7eC4RdWKsh+OIwyxug==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "+gOOfKufQ8SO4BxIAhOiLQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 14",
+  "notes": "Record note 14"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2843"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "+UNdleuBTXu7OP3t+EqNKQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "VgT1Y9M4Q6uZwn7C04Fw2g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 15",
+  "notes": "Record note 15"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2844"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ehPJf0rRREmLdD1mNsDiCA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "QtQU18npSdGifsWUxdk1ug==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 16",
+  "notes": "Record note 16"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2845"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "QVorz2n7QTWmSonzhuSYQQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "RUBuvfbEQA+P4EXvH0H8cg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 17",
+  "notes": "Record note 17"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2846"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "HDmn1ocKS76xOC8vC1c/gQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hgCT7CaPRZeDLAoPPmIoqw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 18",
+  "notes": "Record note 18"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2847"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "J8pR3H70SJeAR+Fpe1xSDA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "aKzQWmLnSciiTfbG2Sx1mg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 19",
+  "notes": "Record note 19"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2848"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "uEMs9OdERlO2q41QAChEzw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HyqrzhLARauswR4cKWcJsA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 20",
+  "notes": "Record note 20"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2849"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3pBF2Fe9TQ6P4DL1w4TIFA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WKvSDIUFTpqT1N7TfynvcA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 21",
+  "notes": "Record note 21"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a284a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "UpvLBNynQOK3WNS2bNpxww==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "xAZOnAHiT6K6PyhGpIfsBw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 22",
+  "notes": "Record note 22"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a284b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "1cqJSP8NRXqBgXDoG7DfLA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yqpcYYY9T+aeNhpmswV2SQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 23",
+  "notes": "Record note 23"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a284c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "jK/UX2JpQMWa/EI6B/fbag==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7aTSttHpRZ2n+oio0IolSQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 24",
+  "notes": "Record note 24"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a284d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "fb6LIq9aQuCjOCwxXtz0qg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7xaZdrg6Sb27dmcGssCdjg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 25",
+  "notes": "Record note 25"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a284e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "1vVfZls5TQam/4Jc/8TvnA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ib/BdFIxRMWT91hwsksR7Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 26",
+  "notes": "Record note 26"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a284f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "JYBhdOfGRGSaYCLnDP9D2w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "LXyPVWw8Q66Htu2g7pMjmQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 27",
+  "notes": "Record note 27"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2850"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "KwUZBM2oSWOnd8c+rd9Mgg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yxG0yPKMTt++eu3ihunPcQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 28",
+  "notes": "Record note 28"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2851"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "e8yRojRURtmLEn9qiTbbeA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "i7w7ZmYdSVGQ2WGPxgNYoQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 29",
+  "notes": "Record note 29"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2852"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xsn/53SZTaieisJnRPx86Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "UJK+lx3uRzC7bgddz4+gtA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 30",
+  "notes": "Record note 30"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2853"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "8r766adOQ42esuNOzWwhDw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "d81SUNnjT8mCYIJSgLmCiA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 31",
+  "notes": "Record note 31"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2854"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "6vVAuQkYQgerHs09QsC44w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "E3Q9yPJYQQa8YpalA6VNQg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 32",
+  "notes": "Record note 32"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2855"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "+4hXWtc3QdaR00HOZrfVfA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "vskk06KbQJ+nUoscp1hP7A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 33",
+  "notes": "Record note 33"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2856"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "LerZ0RMBTrqXppLRD9HRJg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6qCTovizTpa27gLV2LAGqg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 34",
+  "notes": "Record note 34"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2857"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "8tFtfuxvT3KVXhFp8LgBbw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hTUIUYoISaG+OskwDDYyOQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 35",
+  "notes": "Record note 35"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2858"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "DbJbVkcPTL2WhwNQzw4yJg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "tXH2/eVRR8SbuAGq5oB7KQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 36",
+  "notes": "Record note 36"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2859"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "uiPP3txPRZmWnvGj709cIQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8f/x+XvbS92cW1H2oSfZPg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 37",
+  "notes": "Record note 37"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a285a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PfqsvFRYQlSXTrBzv7FQKQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "U1Lszqu6TO+UYjBFHebSqA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 38",
+  "notes": "Record note 38"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a285b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "NknvdYenSzCHnUVgoi4/CA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "5twxJaQ0To2iJ0n+NfdMVA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 39",
+  "notes": "Record note 39"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a285c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "w1p2t+dhSDCT7OjYeFzajQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yl32YfKDR12gEvv7FpPJWw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 40",
+  "notes": "Record note 40"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a285d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "4CfhS5uJQYS3RNxTpgttmw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rQA+CYtmQ52uRqdd+YW2wA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 41",
+  "notes": "Record note 41"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a285e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "d1SeLYCNRgCBc2kIZ5t0Xw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1wl7y0omTuaGPUfDpISb1A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 42",
+  "notes": "Record note 42"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a285f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EN6GsMVfStOzn2m0ItiVCQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "05vdNmsnQ6CbJlB6ounCKA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 43",
+  "notes": "Record note 43"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2860"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "W6DyRN61Sb2KBDd7Bc9kaQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ecVAO5P+ThSpAG4eERK7Cg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 44",
+  "notes": "Record note 44"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2861"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ERXZayTmTIqTbDZlzSObRA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hQl4tXRPR3y1wAzX+BnVkQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 45",
+  "notes": "Record note 45"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2862"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "gwIEG0P4THCGoZXcbN8mVg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "bvgUmruwTxWXbbsbMNZPJQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 46",
+  "notes": "Record note 46"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2863"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "phi6FDQjQGyEypqzhoXonQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hSlH0REhSaOh8mdRRQorxg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 47",
+  "notes": "Record note 47"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2864"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "kQXc5R9fQ0G4S090vM896g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "b1ZV4HQwQBavGFbqXZRIgw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 48",
+  "notes": "Record note 48"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2865"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3D4vRmbxTlSw8lfxEoA2Cg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "C++D0QV6TQKNo9AL9myEkg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 49",
+  "notes": "Record note 49"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2866"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EXbFUh5sTiO6qZCvDMalLw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "VL7YohfRT+mF742k/KTJLg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 50",
+  "notes": "Record note 50"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2867"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OTemAnJ7T++Z6CxbU0H4dA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "SfJsxDLRQSOyu8Y+F2LWxw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 51",
+  "notes": "Record note 51"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2868"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "lBCWsaWxRrqTzqbWkQxTNg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rc6q3vViQy6VB7xwJ2ZqDg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 52",
+  "notes": "Record note 52"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2869"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "M62PkeIzRNanZfbkRH1Q3A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "0qfiqaTrRx6XGPftUhSbmg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 53",
+  "notes": "Record note 53"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a286a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "s+DZ/CCERq60lgKKIvnNzQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "y2QmXFreRbGZmVrsbHbNbw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 54",
+  "notes": "Record note 54"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a286b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EyvNCPkoQfKlaAkWHPMBUA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EmB8uoSyQZu9uKAmkFwIkQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 55",
+  "notes": "Record note 55"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a286c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "nkNXWHpRQ76qj5MLTUDIlQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "COHB5U/jTKuuZj85OjNo0g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 56",
+  "notes": "Record note 56"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a286d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "jY8bSsubTQOLQnXVu0WhWQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "H+14ZLrVSC6RUDZzjgsY0w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 57",
+  "notes": "Record note 57"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a286e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "b3UJluXxRqCKvRE+vS0O+A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ZMCvo81URWCf9n8K+GmTFg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 58",
+  "notes": "Record note 58"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a286f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Nm/4xVWoQzmYFJbm9gH7dQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "sMlBohxzS3mdqaoV+D+32w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 59",
+  "notes": "Record note 59"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2870"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "C9GWrOTiS5uwFxmgx1ZyFg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "45+9eSMyQw6jwfJgZPPXnA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 60",
+  "notes": "Record note 60"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2871"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Ubb3hfc8R7uf5cpxN1h4Xg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "PpnTOGYuT3alZ8sInmsx4A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 61",
+  "notes": "Record note 61"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2872"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "hZbp+trCRCuB+mZD4Ko7RQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "v3e9BgwBR+mtemDCTiExkA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 62",
+  "notes": "Record note 62"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2873"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3udhedmTS3Wg/7LHFtI0Ag==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hRPNQ/r0S3CXt6/BgQKHHQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 63",
+  "notes": "Record note 63"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2874"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "zJkAgXW/QWCEy6pcFiNPiw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Ic37mS9URgqpx1QT9Uq4gw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 64",
+  "notes": "Record note 64"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2875"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "GcQTpEV2TaiYAOzRKT4YlQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "5VUNp5qTSsaUIk0xUDHt7Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 65",
+  "notes": "Record note 65"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2876"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5l4wqSAtS2aRpMoQ2Zqp8w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "5/qh3K8NSnGdY+/eB8aZRQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 66",
+  "notes": "Record note 66"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2877"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "HmMlKrlDTmuKVY9ZtwC7KQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "zQ5NwT/lSzqgyL8ahhl6eQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 67",
+  "notes": "Record note 67"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2878"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PWnjSzhPRZ20eW+GH92V2Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "JgRi/DChRumPwhgigINB6w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 68",
+  "notes": "Record note 68"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2879"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "c9ELaj9HR3yKc0Zb7NOOfQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MH5m1M/fRimk6HGNgMPn/Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 69",
+  "notes": "Record note 69"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a287a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XJuNGC5UQ1u3mcRzcPa0CQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "KDGZKrwyRemFowHNAEj2Fw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 70",
+  "notes": "Record note 70"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a287b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Au+Uo6VzSz2EcoauXaicXw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "9HEW64m9SayKKVshyPBTBg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 71",
+  "notes": "Record note 71"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a287c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "tWD7ZZVeTGObADnmWqcduw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "+FxUqT2SQJ+TPTFG92GJ/w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 72",
+  "notes": "Record note 72"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a287d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5+2pQ79FSB2tdV8MPDwXUw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ql44klXcRJy0bquefIAvbA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 73",
+  "notes": "Record note 73"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a287e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "1nfMydAuRn++BS2BuNy/Gw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "r+mj+L/8RnKiIgWdLBE5Rg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 74",
+  "notes": "Record note 74"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a287f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xCnneo2xSK66XR8IgXbqzA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "F4D8rzA1RaOCfSseJuNTIA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.488Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 75",
+  "notes": "Record note 75"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2880"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "h2vhIfiWQfGCFPvGNn5Eug==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "XMipni5URHuhi7HulHV43g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 76",
+  "notes": "Record note 76"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2881"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "+P0Hjhz8RQmSS6wG6KGpfQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TEI6L/rlTciKAkbK4+0WJQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 77",
+  "notes": "Record note 77"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2882"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5GHVfwFRSz2Mjt3NxVaBwA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "/oikChz+RCyE+h8LdbPOvA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 78",
+  "notes": "Record note 78"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2883"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VAaJq3kSTMOyp/7NoPdTeQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "4+pJieJGRqyGLejSx/OxWw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 79",
+  "notes": "Record note 79"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2884"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "bhOB0dV9RIqTlg0A5y0y+w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ecaTdFziSjiupnifR+2oxw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 80",
+  "notes": "Record note 80"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2885"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qgNGk3aWQ1uquFM0qVHFew==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "7B0L7qMBQ9WYFLZaqQ4DOA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 81",
+  "notes": "Record note 81"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2886"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9DgAo9b1T2mTJFoEDkOyoA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "0CitY4BITI22CyWGwiFPLw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 82",
+  "notes": "Record note 82"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2887"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VMEVm0qZRzO3iytlaYxywA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "lF7uu/kFQOa5RW96/zxyWA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 83",
+  "notes": "Record note 83"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2888"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "QAo2Ic4rQIOFz9Inz7zXUA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ERWbuvERQ3qu008ufkdbVw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 84",
+  "notes": "Record note 84"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2889"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XONQe400TtGfKynkRQ+4uA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1NmgZcMGSOGgmCGPHE/8RQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 85",
+  "notes": "Record note 85"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a288a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "0jipNco5Sh2fCqvVqyeBYA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "nDzHK2TASHO3uS7a+9UEHg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 86",
+  "notes": "Record note 86"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a288b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "+IfrShr9SWGKW5l390F6dQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "D2VuaFr+Qwi6Uh4x5eDQ1Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 87",
+  "notes": "Record note 87"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a288c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "TKbxt3jWTVS8ZJgDWSAmSA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IFSZaUvESEitzCmWF/d2dQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 88",
+  "notes": "Record note 88"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a288d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5puPvtjXQL6KA+cfcpjDZw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "A2gnaty9S0CAWMksOxAlJg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 89",
+  "notes": "Record note 89"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a288e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Nxw+mIzkRemwV1rkzigrLQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "UhVlaCMAT0Cxh8C9X8lVMA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 90",
+  "notes": "Record note 90"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a288f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PexWjIlVSU6DxErz1czhXA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "NZtbuRFMRRGrSFVefuD5PA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 91",
+  "notes": "Record note 91"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2890"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "32xc5UANTSaQ+RPG2D5XTw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "G40Yo8VaS0eFuEE5/IXkgw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 92",
+  "notes": "Record note 92"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2891"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PsX6bTTHQ7OVtK4T4A5OxQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "h8qXONndSkOfgo2ElXsBAA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 93",
+  "notes": "Record note 93"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2892"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "p5Bu/pGdQLGJk1HVjEKO4A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "aImc+kLgQMKO4CVZNPh0og==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 94",
+  "notes": "Record note 94"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2893"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "oTyb0PiCQpiDhPGprtr/FQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Jc5Zr4GgSz+gt2BSR3ktpQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 95",
+  "notes": "Record note 95"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2894"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "+TOyf9VFSNqugbiULdtz/g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1jWyNp00S5SjqYms/fxt4w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 96",
+  "notes": "Record note 96"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2895"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YOFSLCvkRi6jtQOPQag/1A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "k6HIKPK5TieAQVKQN0BOdA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 97",
+  "notes": "Record note 97"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2896"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "LShwL2MLTHepduApXPncLg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IDZpiESITjWI9BN9HEtNRg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 98",
+  "notes": "Record note 98"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2897"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Y/rx8N5uR0yHtwFe7y5O4g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "vZvS14jLQHWSC2a1gpF9xQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 99",
+  "notes": "Record note 99"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2898"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "znjtiqAoTnqqrxx9ObNWsA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "9kT3XbayTJeM9mIMqavpag==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 100",
+  "notes": "Record note 100"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a2899"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "C3IhZ9ZHSoGVKPiAxjDijQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "qw7JeIeuTta6fWtFRrWGmg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 101",
+  "notes": "Record note 101"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a289a"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7J4FxUeWQBGXZ7kNR4gD2Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "N0AbSQ6vQFKKMe0a+s612A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 102",
+  "notes": "Record note 102"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a289b"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "fPqupLOTTsK3tTtYoT26CA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "SOzV0Z6tSnazhuJYt5EVEw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 103",
+  "notes": "Record note 103"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a289c"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "FMhh7N0nRAyP22Gsh+znww==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6E3x+oNGR/Wq62qug1OKHA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 104",
+  "notes": "Record note 104"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a289d"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "DW3ePf2QTgKv689yNgDxLg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ZyF7I9xCRI6CUHsouAZG7w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 105",
+  "notes": "Record note 105"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a289e"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "koAAE/5SRJurkpp5RR1yOw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "GAwxOiTwSTCMYwVEWsGMSw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 106",
+  "notes": "Record note 106"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a289f"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9f7n3/NlSNi+EJ1o7exFaA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "mZT4pE0XR6iwX/DVIJpuXw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 107",
+  "notes": "Record note 107"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "jLrXIaUxRXGWJ6b3/cYwLA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dOtiPRTaRnyh9qPXwEDKjA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 108",
+  "notes": "Record note 108"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Qcu2tc3LSUCedMcWKJ2YUw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "XQmJomfbTWqeju7tPTQBzw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 109",
+  "notes": "Record note 109"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "VnlnKc6yQaesi2vNK0vayg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "oKznfgk6THaVAiCG8o0iQQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 110",
+  "notes": "Record note 110"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "zScNBYxKQ3mdCc3bAU/Cqw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HwlypdrdRxmHgJULW/uC+A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 111",
+  "notes": "Record note 111"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ar4MX2CLSdGtdb3Rb+RPXw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "42YJnIriTWerHHoj4bmL2Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 112",
+  "notes": "Record note 112"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Zv1fEwTuRvG5iF9OXQn4lA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "KXsJL2jITRScFhS+sl2KPQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 113",
+  "notes": "Record note 113"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "tlaZw7e5RC2vERm/2gAyuQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "FqsOFdGoQFChNI/1w+a2PA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 114",
+  "notes": "Record note 114"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ktSTAIujSU2FOjyBQY4l3g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "XzkurhwqTF2utlG0ooJfqA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 115",
+  "notes": "Record note 115"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "8LB+y426T0K2tEdAArwHMQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8lkqOhdbQ0mmSrg+SJ+oFQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 116",
+  "notes": "Record note 116"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28a9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "eat3RI+TR8qNoAJupALEdA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "irJGcRePQjePgDGuJy/2ig==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 117",
+  "notes": "Record note 117"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28aa"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "3SYYjnKFRvGUcD48t2MqYA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6ptmtpPJSNWKlaMBdB6Kfg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 118",
+  "notes": "Record note 118"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ab"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "FPPB6STKRUyd95SdbthwuA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "v4RFvoyxRA6NLj5miHFS2g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 119",
+  "notes": "Record note 119"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ac"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "8m/qLgEgTU6oSdwX4IHsLQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "JPex7ZLzQyG5uZCixWnINA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 120",
+  "notes": "Record note 120"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ad"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "nZ3Dg38ERcKhlzpl8PX93w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "sCHawcYlRtqUD15H4e7xIA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 121",
+  "notes": "Record note 121"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ae"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "5pWEHWgYQ0GDOvV4sSg0sQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6qUDz8YPR6Wgo8KMmtrJGg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 122",
+  "notes": "Record note 122"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28af"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EOGN3dtFRbC+8MlXETupDw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "biPwYz+dT6+Oduch97ElaQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 123",
+  "notes": "Record note 123"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "GjiyCQw7TESdRF6sqe/FTQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "QhizdB6DTjurRJPvucIN5g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 124",
+  "notes": "Record note 124"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "743xWQGcRlW14IQ69nnglg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "kdaknuxiRLC7y6c3J/lNVA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 125",
+  "notes": "Record note 125"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Qty2woQBSk6wYYL36X4yTg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "acwTEBu2QPqu7h0GIh0sXA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 126",
+  "notes": "Record note 126"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "4AXFDBcxTeK2m9reHp+OaQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rPpbVQ59RtarN12tINlpxg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 127",
+  "notes": "Record note 127"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "vETpR5EqQLmgfUqK8QQ2LA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WAy9drqfTmqfvk6oc4Ku3g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 128",
+  "notes": "Record note 128"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "olsQEEPKRlqvm5I8OeVfZw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1GrSiOhiRQOnMD3zNAnw+Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 129",
+  "notes": "Record note 129"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "gEJx/IgCTJCOd/LfOtNKKA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "00xaYAT3Ql6tFJDeY0apHQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 130",
+  "notes": "Record note 130"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "jqbxfIytSqC0L5Km5YvdRQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "+wF8lcYYQLOkKqyZ6VwYcA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 131",
+  "notes": "Record note 131"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "0CDICLBLQByYON6tmVBSaQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yZEm2ugOTyaBj3W4cOIw8A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 132",
+  "notes": "Record note 132"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28b9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "d1h81pkZS3eAF9Rk4hXQ3Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "DWRHIz9JQwOGq0BLhBzLAQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 133",
+  "notes": "Record note 133"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ba"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "t2MigXigRz6118yJBOwjkA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "jgN7Bd9FTH6LoQQ1tUu0ww==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 134",
+  "notes": "Record note 134"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28bb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Do3uK2ZXR9e6cmj00gxPnQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "IAXHbvEQQC2ulHez9ZEFdA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 135",
+  "notes": "Record note 135"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28bc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "HCqk2Ea9QYCNn9xQAXTyTg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "f22D0CoPRayLc4PyE/zI/A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 136",
+  "notes": "Record note 136"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28bd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "XzRiwzFlTS+wQyPfjyGraw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "hw33vyAUSRKbtkJYVUytCg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 137",
+  "notes": "Record note 137"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28be"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OUTn43hqSO+4TaumNzZ2Xg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "3PSMGDNdTcWAtSAU+zaNWg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 138",
+  "notes": "Record note 138"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28bf"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "iQWBMwLmQXCbhB1gDr6wZQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dhx1MJakTLCnBTcx2AUMbg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 139",
+  "notes": "Record note 139"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "kboAhU7zTW6AGI+/J9pTNg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "0i36bXLuTpyjj9YaBAFiEw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 140",
+  "notes": "Record note 140"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "MSM64EUIRUqW8tMUTMPUSw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rQWHwKLMTq69iTcwp4gStQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 141",
+  "notes": "Record note 141"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "AtPModgkRmG8UI/3JMsd5g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dm8bCOL8RpOxcVQK8kq7gA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 142",
+  "notes": "Record note 142"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "JF6HBy/kRwakeSy7UXKfMg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dh+HC5ziTpSmCEEXaRKW6Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 143",
+  "notes": "Record note 143"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OsWfWWQZRHKIg5FdTfAPEg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rmDJHZy+TT+VmWXuaK22kA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 144",
+  "notes": "Record note 144"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "RKHPCsvDQF6br/MCHGu+bg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "70vGawxxS+2M08+sTQ5l/g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.489Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 145",
+  "notes": "Record note 145"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "aBgfh0NkQ9udYZG1ItVrBw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "1IBeZ4NPS/2pjNkzAY8PqA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 146",
+  "notes": "Record note 146"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "zSDgx/dRSSW5XiqZhZML9A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "iHhfmLVqScmyo6RwGta3eg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 147",
+  "notes": "Record note 147"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "4SC0WdTqTJCn79DtkDkW+w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Cg8g4GPDQi6K3+K/x0bH5A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 148",
+  "notes": "Record note 148"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28c9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "uXF7lbyzQwW04Epl7fOGng==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "nVymxPgjQImSE+fmvhVcZA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 149",
+  "notes": "Record note 149"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ca"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "OUCISsU5SUaBAXpWx5Ektw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "J4ak/9JaQ3OkvMm01b8jkA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 150",
+  "notes": "Record note 150"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28cb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "aKmBPUdrRTWp2tswrc9I0g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "Psb2JCVcQCu/YVW6PlBHBQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 151",
+  "notes": "Record note 151"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28cc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "a48yZNJnRxy96UqeWHGKhA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "TI98dOaNSMyFeHx5Q+l1mw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 152",
+  "notes": "Record note 152"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28cd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PCHxvkLFTO+c27Ki/at2SA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WzOSmh8aQfOu9nkjigiABQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 153",
+  "notes": "Record note 153"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ce"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "/BZi8SHdSK2jMHqxOAZyJg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "W7uLQTkPSxezvmItJIPN8w==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 154",
+  "notes": "Record note 154"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28cf"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "9rc33X78RmOSlkpIqI6u6Q==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "6oghqihNQp2TTcIdM6prlw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 155",
+  "notes": "Record note 155"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "4mHV6SoSTbKtFzWzx7stsw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "puZscYV2TgKgv+0s6aG8Pw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 156",
+  "notes": "Record note 156"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "av+BmzgiSeSMRn1/Ru/TqA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "VpbZ0z5uR9uZmIH6xngyQA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 157",
+  "notes": "Record note 157"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "mPh0byO0SxeVNtB9gzb9lA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "yWgOvVKoT5mEMAtnsGKysw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 158",
+  "notes": "Record note 158"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "7A3NTcchT3ewp8Lylqw8tQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "gMEQNViCSAqXsK9Mt8TifQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 159",
+  "notes": "Record note 159"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "N/5RMtVfTJiqNnDu7BGGgA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "bcJwAhkLSQu2Gsjf34wM+A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 160",
+  "notes": "Record note 160"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "EriiRDLuSRGCUJ4hWmTmTA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "fH6H1kCyTdurRtQrIOCt1Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 161",
+  "notes": "Record note 161"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "NozyIOznSk2rKLC8CqVVVg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EI5byMRkQxqJz9gQcfgaRA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 162",
+  "notes": "Record note 162"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "x9aM5E9URsa/UkD1TJ42PA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "FVRi6u5ITTmsez11s0gidg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 163",
+  "notes": "Record note 163"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "gKLZAAZuSpyfuXsic59Mpg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "DgoTeAynT2WmXGsAEY5zUw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 164",
+  "notes": "Record note 164"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28d9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ErqZiiTwSN+7WmOP4Keucg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "R7nPz/OCSreEXChJI8/2pg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 165",
+  "notes": "Record note 165"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28da"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "du1j+KjvRk20eaMaHqzO6g==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "/3DRQIxjQqubZH3A8YBI2g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 166",
+  "notes": "Record note 166"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28db"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "lPmRmnhJRAikzoqXK4xo3w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "U0rix8uQQ4W8RMCTI/m2ig==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 167",
+  "notes": "Record note 167"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28dc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "h/mVZIfxTpiyip9wlChuzw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "WO3vvCBKSs6FvTpqk/Gkug==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 168",
+  "notes": "Record note 168"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28dd"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "WoidiWrZRhK1/L8Nzl9kgg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "zSMMTZhYRBCKLa3iTVMB2g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 169",
+  "notes": "Record note 169"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28de"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ntMuNfBDQE6uEb78okiwjg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "FyVyUr6WTxWos3Yhx9zKeg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 170",
+  "notes": "Record note 170"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28df"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "JZvBewQbT9SgTP9FvwvcnQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "K37abZgDRIKOlmoUclXtDw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 171",
+  "notes": "Record note 171"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "2+/OyrjRSv61Ol8y2SkwQQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "oQBxK347SU2pAeGQTokovg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 172",
+  "notes": "Record note 172"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "IF4JqY57T1+TIGD9eCxTzw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "OjPTwV5rR0mQfa1tA/+seg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 173",
+  "notes": "Record note 173"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Ln82g0EXRnK7qY/hotGjjA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "+lGFUWUdRdaZJbjmRBA8fA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 174",
+  "notes": "Record note 174"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "GLDC100CSYuWkTm5p4TpVw==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "CM4IlaRtQseex87cm3+WkQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 175",
+  "notes": "Record note 175"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "huiPFm7CQHKVPg1pFtRNqA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MkES6R/wR/aiVis1rQJDRw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 176",
+  "notes": "Record note 176"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "PDMkVslwTU6viiyZuLQWUg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "/+GTGHI3QVq35xUBY6z/Eg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 177",
+  "notes": "Record note 177"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "4NfWJ04OSlSQhkvLT4GfQg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "gO4MQM54RZelW4en3oOypg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 178",
+  "notes": "Record note 178"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "/eyzCAbqTuqdJtmUDLsaRQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "ZMgcDRN7RmSkYEFMqbAkNQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 179",
+  "notes": "Record note 179"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "iGaJikVLQDOmdzyu4d2YHA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "VMxe/5wQTQm3D+s5lN6oWQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 180",
+  "notes": "Record note 180"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28e9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "v22Rhv53QT6cQ3hDM6UIAA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "CfB9g3qnRxydx0uCaq4A7A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 181",
+  "notes": "Record note 181"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ea"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "QQL1ZiKXTRCJhijWXm68dQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "oECGZ/b5TzmzafGRo84Eew==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 182",
+  "notes": "Record note 182"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28eb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "mIcyypnqScy9wErYQ9zPEg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "E7rrzzu8TqSfp7meXhkjSQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 183",
+  "notes": "Record note 183"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ec"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "Vvx6briQTFqCttqnjQMy/w==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "dPZk9IlaSImpOvEzE7TlPw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 184",
+  "notes": "Record note 184"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ed"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "YhAlIV4ERpSCYCI+oUYfYg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "8bXIaL7ySsWff0W8XTeQ7g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 185",
+  "notes": "Record note 185"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ee"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xR+y6Z/KRj+WS2G2a5SpVg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "EucZj9gLQNiv1GEDXKzdlQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 186",
+  "notes": "Record note 186"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28ef"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ONg0Ot70SFeNnggonlFHnQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "pxOljDRPTzCPPfjHtxNUUA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 187",
+  "notes": "Record note 187"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f0"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "kj72GjkgTH2QAxzsToRPoQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "HkZbDSisSQGs9o/RUljo8g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 188",
+  "notes": "Record note 188"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f1"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "X4fEcerHRv2uzL6Qd9CnGQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "qwiIyd3MSGSyKUs/xfoqgA==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 189",
+  "notes": "Record note 189"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f2"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "diyTvM54QTCw1SSfk+pu0A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "RiTt8yJrS6uA3Wn7NyAX6Q==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 190",
+  "notes": "Record note 190"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f3"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "xEQXq6izTl6fYtClW5ZAzQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "t1k20CwmR5CuEQ5Kh5DNDQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 191",
+  "notes": "Record note 191"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f4"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "t48KWsQZRX+EpWtwSP2IFg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "MrF64wzQSXaUCGDelmI+tw==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 192",
+  "notes": "Record note 192"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f5"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "ais/8Py7RoCix2rzCPwt/A==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "fwvFXEGNSkyoCgTSdYb48g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 193",
+  "notes": "Record note 193"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f6"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "BRUJOgwqRxOgMjlY1/mfEg==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "iT7HptoLRnmGYWjE4PUEeQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 194",
+  "notes": "Record note 194"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f7"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "N+CfGS43T7SgXjMa5o48ng==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "iKwj65xmSOCfM5tfhroQDg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 195",
+  "notes": "Record note 195"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f8"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "qVO5TIvpSIyLGhe2ei1jpA==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "vhei8RoDQs6pC6MEpePN1g==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "cough"
+  ],
+  "prescription": "Prescription 196",
+  "notes": "Record note 196"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28f9"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "21nCP9B6TAKu3r9w7gBToQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "uHRyx7BaSmqS3vwm/sXTGQ==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "headache"
+  ],
+  "prescription": "Prescription 197",
+  "notes": "Record note 197"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28fa"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "2I2hN5w0SfG+ssG9a4LmGQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "qSt08i4jTXux5l2MTKIe8A==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fatigue"
+  ],
+  "prescription": "Prescription 198",
+  "notes": "Record note 198"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28fb"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "6NOxiZ4PQjyrY3xjC/0CDQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "rP0eZIA6SJ6m5ipHBtRmGg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "dizziness"
+  ],
+  "prescription": "Prescription 199",
+  "notes": "Record note 199"
+},
+{
+  "_id": {
+    "$oid": "686e4b9ee76ef9166b8a28fc"
+  },
+  "record_id": {
+    "$binary": {
+      "base64": "R9byuNxBRd+qrZhahtSipQ==",
+      "subType": "04"
+    }
+  },
+  "patient_id": {
+    "$binary": {
+      "base64": "nJLYXXs3ThWeE/nsKbcyzg==",
+      "subType": "04"
+    }
+  },
+  "visit_date": {
+    "$date": "2025-07-09T10:59:42.490Z"
+  },
+  "symptoms": [
+    "fever"
+  ],
+  "prescription": "Prescription 200",
+  "notes": "Record note 200"
+}]

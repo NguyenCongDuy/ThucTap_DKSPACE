@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "686b35a055fad4f6887e1552"
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyA==",
+      "subType": "04"
+    }
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "stock": 9
+},
+{
+  "_id": {
+    "$oid": "686b35a055fad4f6887e1553"
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9QwyQ==",
+      "subType": "04"
+    }
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "686b35a055fad4f6887e1554"
+  },
+  "book_id": {
+    "$binary": {
+      "base64": "fKe4EJ2tEdGAtADAT9Qw0A==",
+      "subType": "04"
+    }
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "stock": 1
+}]
